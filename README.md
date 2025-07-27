@@ -1,4 +1,4 @@
 # Priyanshi_Vishwakarma
 This is my first repository.
 <br>
-author = priyanshi.
+author = priyanshi (apna college)
